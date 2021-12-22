@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_remote=self.webpackChunkweb_remote||[]).push([[846],{846:function(e,t,l){l.r(t);var n=l(985),u=l.n(n);t.default=e=>u().createElement("div",null,"Web Remote ",e.title)}}]);
